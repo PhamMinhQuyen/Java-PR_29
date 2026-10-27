@@ -1,0 +1,5 @@
+com\library\service\LoanServiceTest.class
+com\library\service\OpenClosedPrincipleTest.class
+com\library\strategy\FinePolicyTest.class
+com\library\service\BookServiceTest.class
+com\library\service\OpenClosedPrincipleTest$StudentFinePolicy.class
